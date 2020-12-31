@@ -1,4 +1,4 @@
-# rsi_bot
+# RSI Crypto Bot
 
 This bot is a very simple bot designed to accumulate a certain pair through binance everytime the RSI crosses above 30. This bot does not sell, only help accumulate. Multiple bots will need to be run to be used with multiple pairs.
 
